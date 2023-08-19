@@ -5,4 +5,11 @@
 *BUT, they are slow and inefficiant.*
 *So, what about using python...*
 
-This repo gives you opportunity, using pytube  
+This repo gives you opportunity, using pytube
+
+# How to use
+You place links in list.txt
+
+Then you run pytube.py and wuala
+
+All your audios are in folder audio
